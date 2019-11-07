@@ -7,4 +7,4 @@
 > Atomphysik
 * 2015-heute Mathematik-Dozent an den Eckert-Schulen in Freiburg
 > Techniker-Ausbildung
-![Alternativtext]("https://github.com/michaelklaiber/OSP/blob/master/66240l.jpg")
+![66240l.jpg](66240l.jpg)
