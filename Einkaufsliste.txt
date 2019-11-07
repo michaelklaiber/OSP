@@ -1,0 +1,6 @@
+Einkaufsliste:
+
+-Bananen
+-Äpfel
+-Birnen
+-Bier
